@@ -1,10 +1,11 @@
 {
-    "versionCode":  46,
-    "versionName":  "0.25.9",
-    "apkUrl":  "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.25.9/CoffeeXpress_0.25.9.apk",
-    "sha256":  "900606f43ed0ad3ffbb2d4c9321b71449f0a65c0160a0433d055e893eb12f8d2",
+    "versionCode":  47,
+    "versionName":  "0.26.0",
+    "apkUrl":  "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.26.0/CoffeeXpress_0.26.0.apk",
+    "sha256":  "1f62d925acec2fcc54603c74e9fbf6eb59b055b83cb6a6ad5d9738f072cb5843",
     "changes":  [
-                    "В сервисном меню теперь отображается установленная версия CoffeeXpress.",
-                    "Добавлено безопасное получение будущих обновлений через интернет."
+                    "Обновлён внешний вид CoffeeXpress в фирменных цветах.",
+                    "Добавлен новый логотип и более удобное главное меню.",
+                    "Настройки оплаты, стекла, напитков и журнал оформлены в едином стиле."
                 ]
 }
