@@ -2,7 +2,7 @@
     "versionCode":  46,
     "versionName":  "0.25.9",
     "apkUrl":  "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.25.9/CoffeeXpress_0.25.9.apk",
-    "sha256":  "4c8f21a7a5a050e737b44e8d3c74f13afbbb2dc323eb72c5c3c0228d8b2cae52",
+    "sha256":  "900606f43ed0ad3ffbb2d4c9321b71449f0a65c0160a0433d055e893eb12f8d2",
     "changes":  [
                     "В сервисном меню теперь отображается установленная версия CoffeeXpress.",
                     "Добавлено безопасное получение будущих обновлений через интернет."
