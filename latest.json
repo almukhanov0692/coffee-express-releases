@@ -1,0 +1,10 @@
+{
+    "versionCode":  45,
+    "versionName":  "0.25.8",
+    "apkUrl":  "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.25.8/CoffeeXpress_0.25.8-github-updater.apk",
+    "sha256":  "33e23f34d0a3fcd656fa74b8c7137e60feddce470657b56345730641a6cb93d1",
+    "changes":  [
+                    "Обновления CoffeeXpress теперь можно получать через интернет.",
+                    "Перед установкой приложение покажет понятный список изменений."
+                ]
+}
