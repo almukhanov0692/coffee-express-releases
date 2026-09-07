@@ -1,11 +1,11 @@
 {
-    "versionCode":  48,
-    "versionName":  "0.26.1",
-    "apkUrl":  "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.26.1/CoffeeXpress_0.26.1.apk",
-    "sha256":  "7a3aca68e64f4e453d58f03390c94ebc2fa5d7092bf4eed28cfb375a8e8376d4",
-    "changes":  [
-                    "Возвращён первый логотип CoffeeXpress.",
-                    "Интерфейс стал светлым: белый фон и кофейные заголовки.",
-                    "Основные кнопки теперь зелёные с крупным контрастным текстом."
-                ]
+    "versionCode": 50,
+    "versionName": "0.26.3",
+    "apkUrl": "https://github.com/almukhanov0692/coffee-express-releases/releases/download/v0.26.3/CoffeeXpress_0.26.3.apk",
+    "sha256": "8535f3c0dcf708cbb26153025fdadc698e9eafa8582681c585f8e0e3700d92d6",
+    "changes": [
+        "Стабильнее определяется напиток после оплаты.",
+        "Приложение ожидает название напитка до 60 секунд и запускает точный рецепт текущего заказа.",
+        "Добавлена защита от повторного запуска насоса."
+    ]
 }
